@@ -1,2 +1,5 @@
 *.ini
 .idea
+bookmarks/media
+*.crt
+*.key
